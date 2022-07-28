@@ -46,3 +46,34 @@ Career Services and Job Search?
 -update profile pic on Github /
 -watch social media management video /
 -updated several things on my personal website regarding language and coding courses, not to mention various items on slack, github, and linkedin. /
+-completed "setting up your social media" task /
+-did most of "social media checklist" /
+
+-how to effectively use LinkedIn in the job search
+-how to effectively use GitHub in the job search
+
+Resumes?
+-Resume Checklist
+-Creating a resume that stands out
+-Resume 101
+-Winning Resume Example
+-Portfolio Project Examples
+
+Networking
+-Special Event Recordings
+
+Applying
+-Job Search Advice from Alumni
+
+Soft Skill Interviews?
+
+Technical Interviews?
+-Study quizzes
+-Java interview trivia
+-MySQL interview trivia
+-Coding Challenges
+-Front End Challenges
+-Articles and Additional Reading
+-Explain Full Stack to me like I'm in 5th Grade
+-Office Hours Recordings
+
