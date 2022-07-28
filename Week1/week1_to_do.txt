@@ -1,0 +1,28 @@
+# Author: William Z Chadwick
+# Date Created: 07/28/2022
+# Date Modified: 07/28/2022
+
+# Description: Promineo Tech To-Do List, Week 1
+
+# Usage:
+# ...? ...to be organized
+
+Week 1, CLI, Source Control, and Variables
+
+-Weekly Videos and Curriculum
+-Week 1 Lab
+-Mentors
+-Posting Questions to Slack
+-Previous Class Recordings
+
+-Coding Assignment Instructions
+-Week 1 Research
+-Week 1 Career Services Instructions
+-Week 1 LinkedIn Posts
+-Week 1 Class Attendance
+
+-Quiz Week 1 Coding Assignment Submission
+-Quiz Week 1 Career Services Submission
+-External tool Week 1 JavaScript Operations
+-External tool Week 1 JavaScript Variables
+-External tool Week 1 Quiz
