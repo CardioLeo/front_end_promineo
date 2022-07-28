@@ -14,7 +14,7 @@
 -go over orientation files /
 -watch orientation video =?
 -profile setup
--week 0 quiz
+-week 0 quiz /
 -schedule submission
 
 -demographics /
