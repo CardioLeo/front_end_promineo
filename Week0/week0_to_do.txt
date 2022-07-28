@@ -15,7 +15,8 @@
 -watch orientation video =?
 -profile setup
 -week 0 quiz /
--schedule submission
+-schedule submission /
+-completed "week 0 'course'" /
 
 -demographics /
 -upload 1st screenshot assignment /
@@ -25,8 +26,19 @@
 
 ---
 
+Still to do:
+
+1. Set up Profile.
+2. Watch orientation video
+
+---
+
+3:
+
 2022-07-Front End Program docs? weeks 1-3
 
 ---
+
+4:
 
 Career Services and Job Search?
