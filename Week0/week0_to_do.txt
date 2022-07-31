@@ -12,8 +12,8 @@
 -take screenshots of commandline /
 -take screenshots of zoom info /
 -go over orientation files /
--watch orientation video =?
--profile setup
+-watch orientation video =? // done at end of week
+-profile setup =??
 -week 0 quiz /
 -schedule submission /
 -completed "week 0 'course'" /
@@ -29,13 +29,15 @@
 Still to do:
 
 1. Set up Profile.
-2. Watch orientation video
+2. Watch orientation video /
 
 ---
 
 3:
 
 2022-07-Front End Program docs? weeks 1-3
+
+-Looks like this stuff only gets completed each week. Don't worry about it for now.
 
 ---
 
@@ -76,4 +78,3 @@ Technical Interviews?
 -Articles and Additional Reading
 -Explain Full Stack to me like I'm in 5th Grade
 -Office Hours Recordings
-
