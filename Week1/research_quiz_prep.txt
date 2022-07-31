@@ -1,0 +1,7 @@
+Quiz Prompts to answer:
+
+What is git? Why is it useful? What is the git workflow?
+
+What data types do we have access to in JavaScript? What makes them each unique? What values can they hold?
+
+What is your favorite thing you learned this week?
