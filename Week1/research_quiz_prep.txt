@@ -2,7 +2,7 @@
 # Date Created: 07-31-2022
 # Date Modified: 08-02-2022
 
-# Description: Contains PromineoTech's Week 1 Quiz, research prompts, and my answers. 
+# Description: Contains PromineoTech's Front End Bootcamp Week 1 Quiz, research prompts, and my answers. 
 
 
 
