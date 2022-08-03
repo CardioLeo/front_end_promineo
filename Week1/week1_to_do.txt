@@ -11,14 +11,14 @@ Week 1, CLI, Source Control, and Variables
 
 -Weekly Videos and Curriculum /
 -Week 1 Lab
--Mentors
--Posting Questions to Slack
--Previous Class Recordings
+-Mentors /
+-Posting Questions to Slack /
+-Previous Class Recordings /
 
 -Coding Assignment Instructions
--Week 1 Research
+-Week 1 Research /
 -Week 1 Career Services Instructions
--Week 1 LinkedIn Posts
+-Week 1 LinkedIn Posts /
 -Week 1 Class Attendance
 
 -Quiz Week 1 Coding Assignment Submission
