@@ -1,4 +1,4 @@
-# Author: William Z Chadwck
+# Author: William Z Chadwick
 # Date Created: 07-31-2022
 # Date Modified: 08-02-2022
 
