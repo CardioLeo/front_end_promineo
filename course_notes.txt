@@ -1,0 +1,11 @@
+# Author: William Z Chadwick
+# Date Created: 08/06/2022
+# Date Modified:
+# Description: Notes on front_end_promineo course
+#
+#
+# I gotta say, I'm proud to share this; and I need to hang onto stuff like this
+# because of how low my confidence gets, how strong my sense of being
+# an imposter is. But the instructor of my front end promineo course responded
+# to my 6ish free command line resources by saying, (Frank Stepanski)
+# "@Will C the resource king :crown:" I'm flattered.
